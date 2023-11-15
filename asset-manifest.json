@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e989dd93.css",
+    "main.js": "/static/js/main.eb6b9138.js",
+    "static/media/fullstackcert.png": "/static/media/fullstackcert.4852ccc99a7d9d130716.png",
+    "static/media/instagram.png": "/static/media/instagram.e403234cec2d4d1cf45c.png",
+    "static/media/upwork.png": "/static/media/upwork.15b7c7c355ab6466516d.png",
+    "static/media/github.png": "/static/media/github.218645a6634a9b0b34af.png",
+    "index.html": "/index.html",
+    "main.e989dd93.css.map": "/static/css/main.e989dd93.css.map",
+    "main.eb6b9138.js.map": "/static/js/main.eb6b9138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e989dd93.css",
+    "static/js/main.eb6b9138.js"
+  ]
+}
